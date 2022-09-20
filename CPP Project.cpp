@@ -1,4 +1,4 @@
-//Shadan Khan 1876267 DS SC6/SC1 project
+//Shadan Khan DS SC6/SC1 project
 #include <iostream>
 #include <stdio.h>
 using namespace std;
